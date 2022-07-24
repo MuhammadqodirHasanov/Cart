@@ -1,0 +1,47 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 21%;
+    font-family: 'Roboto';
+    height: 100vh;
+    margin: 0 auto;
+}
+.red-radio {
+    background: #EE4444;
+    width: 22px;
+    height: 22px;
+    margin-right: 15px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.blue-radio {
+    background: #3C81F6;
+    width: 20px;
+    height: 20px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.black-radio {
+    background: #000000;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+.Add {
+    display: block;
+    padding: 7px 80px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    background-color: #FBBF23;
+    border: 1px solid #FBBF23;
+    border-radius: 5px;
+}
+.Buy {
+    padding: 7px 90px;
+    font-size: 20px;
+    border: 1px solid #61a6fa98;
+    border-radius: 5px;
+}
